@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CN-AC
+- 👋 Hi, I’m @CN-CJ
 - 👀 I’m interested in computer..
 - 🌱 I’m currently learning C# and C++
 - 💞️ I’m looking to collaborate on GitHub to meet you
